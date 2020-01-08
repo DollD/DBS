@@ -9,7 +9,9 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
 
+//This is init Method.
   ngOnInit() {
+	  
   }
 
 }
