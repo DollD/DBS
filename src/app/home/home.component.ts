@@ -11,6 +11,7 @@ export class HomeComponent implements OnInit {
 
 //This is init Method.
 //One More Comment is added.
+//Fina comment added.	
   ngOnInit() {
 	  
   }
